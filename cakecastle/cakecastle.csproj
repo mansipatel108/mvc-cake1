@@ -190,10 +190,24 @@
   <ItemGroup>
     <Content Include="Assets\Images\cake0.jpg" />
     <Content Include="Assets\Images\cake1.jpg" />
+    <Content Include="Assets\Images\cake11.jpg" />
+    <Content Include="Assets\Images\cake12.jpg" />
     <Content Include="Assets\Images\cake2.jpg" />
     <Content Include="Assets\Images\cake3.jpg" />
     <Content Include="Assets\Images\cake4.jpeg" />
-    <Content Include="Assets\Images\con0.jpg" />
+    <Content Include="Assets\Images\cake9.jpg" />
+    <Content Include="Assets\Images\cakec0.jpg" />
+    <Content Include="Assets\Images\cakec1.jpg" />
+    <Content Include="Assets\Images\cakec2.jpg" />
+    <Content Include="Assets\Images\cakef0.jpg" />
+    <Content Include="Assets\Images\cakef1.jpg" />
+    <Content Include="Assets\Images\cakef2.jpg" />
+    <Content Include="Assets\Images\caket0.jpg" />
+    <Content Include="Assets\Images\caket1.jpg" />
+    <Content Include="Assets\Images\caket3.jpg" />
+    <Content Include="Assets\Images\cakew0.jpg" />
+    <Content Include="Assets\Images\cakew1.jpg" />
+    <Content Include="Assets\Images\cakew3.jpg" />
     <Content Include="Assets\Images\logo2.png" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
